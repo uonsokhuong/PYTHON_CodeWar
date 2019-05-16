@@ -1,0 +1,3 @@
+#We should return a new string that have already replaced the exclaremation mark with nothing.
+def remove_exclamation_marks(s):
+    return s.replace('!','')
